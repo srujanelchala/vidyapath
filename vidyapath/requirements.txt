@@ -1,0 +1,8 @@
+streamlit>=1.40
+scikit-learn
+pandas
+numpy
+joblib
+ibm-watsonx-ai
+gTTS
+SpeechRecognition
